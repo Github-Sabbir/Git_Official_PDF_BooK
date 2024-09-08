@@ -1,29 +1,19 @@
 git config --global user.name "Github-Sabbir"
-
 git config --global user.email mdabdulalimsabbir000@gmail.com
-
-==============================================================
-
-git init
-
-git add .
-
-git commit -m "commit done"
-
-git branch -M main
-
-git remote add origin https://github.com/Github-Sabbir/coffee-shop-card.git
-
-git push -u origin main
-
 =========================================================================
-
-change kore ja kora lage
-
-================================
-
+git init
 git add .
-
+git commit -m "commit done"
+git branch -M main
+git remote add origin https://github.com/Github-Sabbir/REPONAME.git
+git push -u origin main
+=========================================================================
+change kore ja kora lage
+=========================================================================
+git add README.md
 git commit -m "ki change hoyeche seita bapare"
-
+git push
+=========================================================================
+git add .
+git commit -m "ki change hoyeche seita bapare"
 git push
