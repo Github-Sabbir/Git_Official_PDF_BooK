@@ -28,10 +28,10 @@ Laravel project github theke download kore run kora
 =========================================================================
 git clone https://github.com/Github-Sabbir/ecommerce_furni.git
 composer install --optimize-autoloader --no-dev
-
 (Now copy .env.example file and make rename .env)
 (Go to .env and change database connection to your database)
 php artisan key:generate
 php artisan migrate
 (if ask for create database then write in the terminal (yes) )
 npm install
+npm run build
