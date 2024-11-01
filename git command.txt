@@ -35,3 +35,12 @@ php artisan migrate
 (if ask for create database then write in the terminal (yes) )
 npm install
 npm run build
+=========================================================================
+Project update kore nauar jonno
+=========================================================================
+Fetch changes from the remote repository: This command downloads the latest changes without merging them into your local branch.
+git fetch origin
+Merge changes into your local branch: If you're on the branch you want to update (e.g., main or master), you can merge the fetched changes.
+git merge origin/main
+Alternatively, you can use:
+git pull origin main
